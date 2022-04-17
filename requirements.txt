@@ -9,5 +9,4 @@ pandas
 datetime
 plotly
 requests
-zipfile
 streamlit
