@@ -518,4 +518,4 @@ def update_comment(audio_feat):
 
 
 if __name__ == '__main__':
-    app.run_server(debug=True,port=8080)
+    app.run_server(debug=True,port=1337)
