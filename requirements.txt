@@ -1,6 +1,6 @@
 gunicorn
 dash
-from dash import html
+html
 dash_bootstrap_components
 numpy 
 dash.dependencies 
