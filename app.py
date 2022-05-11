@@ -233,7 +233,7 @@ app.layout = dbc.Container([
         dbc.Col(html.Center('Authors: Beatriz Neto (20210608), Sara Silva (20210619), Yuriy Perezhohin (20210767)'),
                 width=12),
         html.Br(),
-    dbc.Row(dbc.Container([html.Center('Spotfity is the most used service for music streaming all around the world, our dashboard provides visual analysis about users preferences and statistical track exploration.')], className='pretty_box2'))
+    dbc.Row(dbc.Container([html.Center('Spotify is the most used service for music streaming all around the world, our dashboard provides visual analysis about users preferences and statistical track exploration.')], className='pretty_box2'))
     ]),
     dbc.Tabs([dbc.Tab(tab1_content, label="Chart Analysis", active_label_style={"color": "#08BA14"}),
               dbc.Tab(tab2_content, label="Audio Feature Statistics", active_label_style={"color": "#08BA14"})]),
