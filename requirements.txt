@@ -10,3 +10,4 @@ datetime
 plotly
 requests
 streamlit
+scipy
